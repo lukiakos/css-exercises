@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#egyes {
+    color: blue;
+    font-size: 36px;
+}
+
+#harmas {
+    font-size: 24px;
+}
+
+#kettes {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 600;
+}
